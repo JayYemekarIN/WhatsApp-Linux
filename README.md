@@ -20,6 +20,7 @@ A lightweight, minimalist WhatsApp client for Linux — built using **Electron**
 ### 🔹 DEB (Ubuntu, Debian, Linux Mint)
 
 sudo dpkg -i whatsapp-linux-client.deb
+
 sudo apt --fix-broken install
 
 
